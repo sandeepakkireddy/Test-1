@@ -1,15 +1,18 @@
-#B{
+#imp
+{
     border: 70px Solid lightseagreen;
     margin-right: 830px;
     padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 30px;
 }
-.alr{
+#bt
+{
     background-color: 10px solid lightseagreen;
 
 }
-#c{
+#alligning
+{
     color: white;
     padding-left: 80px;
     position: relative;
